@@ -1,5 +1,7 @@
 # Vehicle Price & Category Predictor App
-
+<div align="center">
+<img src="tumbnail.png" alt="Vehicle price prediction" width="700" height="500">
+</div>
 This app predicts the price of a vehicle and classifies it into categories (low, medium, high)
 based on user inputs, using pretrained machine learning models.
 
